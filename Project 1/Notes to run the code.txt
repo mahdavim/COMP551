@@ -1,0 +1,4 @@
+Project tables and figures are created via running code sections in linreg_main via spyder.
+
+Local project files are in the projutils folder
+Please change the path variables (for data and local project python files) in the linreg_main 
